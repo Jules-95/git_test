@@ -1,0 +1,23 @@
+{
+  "name": "alice",
+  "version": "1.0.0",
+  "description": "Site vitrine minimal pour pratiquer Git en équipe.\r ## Démarrage\r Ouvrir `index.html` dans un navigateur.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jules-95/git_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jules-95/git_test/issues"
+  },
+  "homepage": "https://github.com/Jules-95/git_test#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
